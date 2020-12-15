@@ -1,0 +1,19 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "My first node using mongodb",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mangodb": "^1.0.0",
+    "mongoose": "^5.11.4",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
